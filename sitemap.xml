@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://horopaki.github.io/</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/info/</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/2017/11/29/google-play-protect-found-spy-malware-tixi.html</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/2017/11/10/ispolzovanie-javascript-na-caite.html</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/2017/11/03/prava-dostupa-v-unix.html</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/2017/11/01/kak-povyset-svou-effektivnost.html</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/2017/10/23/vzlom-cayta-jquery.html</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://horopaki.github.io/blog/2017/10/10/vzloman-servis-mayninga.html</loc>
+  <lastmod>2017-11-29T09:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
